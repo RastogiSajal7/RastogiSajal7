@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning AI/ML
 - 💞️ I’m looking to collaborate on MERN stack dev
 - 📫 How to reach me : sajalrastogi795@gmail.com
-- 😄 Pronouns: ... He
 - ⚡ Fun fact: ... 
 
 <!---
