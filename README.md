@@ -36,6 +36,7 @@ Welcome to my GitHub profile! I am a passionate <b>Full Stack Developer</b> spec
 <h3 style="font-size: 24px; color: #444;">Frontend Development</h3>
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&circle=true&labelColor=lightblue" alt="React Badge">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&circle=true&labelColor=black" alt="Next.js Badge">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&circle=true&labelColor=red" alt="HTML Badge">
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&circle=true&labelColor=blue" alt="CSS Badge">
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&circle=true&labelColor=teal" alt="TailwindCSS Badge">
@@ -80,6 +81,13 @@ Welcome to my GitHub profile! I am a passionate <b>Full Stack Developer</b> spec
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&circle=true&labelColor=red" alt="Git Badge">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&circle=true&labelColor=black" alt="GitHub Badge">
+</p>
+
+<h3 style="font-size: 24px; color: #444;">Deployment Platforms</h3>
+<p>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&circle=true&labelColor=black" alt="Vercel Badge">
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&circle=true&labelColor=teal" alt="Netlify Badge">
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white&circle=true&labelColor=teal" alt="Render Badge">
 </p>
 
 ---
